@@ -1,0 +1,44 @@
+2022-11-16 00:07:20,513 INFO usb_comm 76: attempting connection
+2022-11-16 00:07:20,515 INFO usb_comm 146: Device not found
+2022-11-16 00:07:20,516 INFO usb_comm 83: not found
+2022-11-16 00:07:20,633 INFO tkinter_pyplot 72: setting xlim (low, high): -900, 900
+2022-11-16 00:07:21,165 DEBUG cv_frame 258: sending cv params here
+2022-11-16 00:07:21,665 INFO usb_comm 465: Device not connected
+2022-11-16 00:07:21,665 INFO amp_gui 196: failed connection
+2022-11-16 00:07:21,681 INFO usb_comm 465: Device not connected
+2022-11-16 00:07:21,681 INFO amp_gui 196: failed connection
+2022-11-16 00:07:21,790 INFO usb_comm 465: Device not connected
+2022-11-16 00:07:21,790 INFO amp_gui 196: failed connection
+2022-11-16 00:07:22,144 INFO tkinter_pyplot 72: setting xlim (low, high): -1500, 500
+2022-11-16 00:07:36,192 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:10:44,418 INFO usb_comm 76: attempting connection
+2022-11-16 15:10:44,420 INFO usb_comm 146: Device not found
+2022-11-16 15:10:44,420 INFO usb_comm 83: not found
+2022-11-16 15:10:44,510 INFO tkinter_pyplot 72: setting xlim (low, high): -900, 900
+2022-11-16 15:10:44,999 DEBUG cv_frame 258: sending cv params here
+2022-11-16 15:10:45,512 INFO usb_comm 465: Device not connected
+2022-11-16 15:10:45,512 INFO amp_gui 196: failed connection
+2022-11-16 15:10:45,527 INFO usb_comm 465: Device not connected
+2022-11-16 15:10:45,527 INFO amp_gui 196: failed connection
+2022-11-16 15:10:45,635 INFO usb_comm 465: Device not connected
+2022-11-16 15:10:45,635 INFO amp_gui 196: failed connection
+2022-11-16 15:10:45,929 INFO tkinter_pyplot 72: setting xlim (low, high): -1500, 500
+2022-11-16 15:10:48,916 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:11:04,997 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:11:05,221 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:12:14,767 INFO usb_comm 76: attempting connection
+2022-11-16 15:12:14,769 INFO usb_comm 146: Device not found
+2022-11-16 15:12:14,769 INFO usb_comm 83: not found
+2022-11-16 15:12:14,858 INFO tkinter_pyplot 72: setting xlim (low, high): -900, 900
+2022-11-16 15:12:15,335 DEBUG cv_frame 258: sending cv params here
+2022-11-16 15:12:15,849 INFO usb_comm 465: Device not connected
+2022-11-16 15:12:15,850 INFO amp_gui 196: failed connection
+2022-11-16 15:12:15,865 INFO usb_comm 465: Device not connected
+2022-11-16 15:12:15,865 INFO amp_gui 196: failed connection
+2022-11-16 15:12:15,974 INFO usb_comm 465: Device not connected
+2022-11-16 15:12:15,974 INFO amp_gui 196: failed connection
+2022-11-16 15:12:16,276 INFO tkinter_pyplot 72: setting xlim (low, high): -1500, 500
+2022-11-16 15:12:18,393 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:12:19,027 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:12:19,226 DEBUG amp_gui 179: trying connecting
+2022-11-16 15:12:19,455 DEBUG amp_gui 179: trying connecting
